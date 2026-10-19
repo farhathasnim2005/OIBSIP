@@ -54,7 +54,6 @@ python main.py
 Python-Task1-VoiceAssistant/
 ├── main.py
 ├── README.md
-└── screenshots/
 ```
 
 ### Conclusion
